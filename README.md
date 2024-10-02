@@ -40,7 +40,7 @@ Key steps include:
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Download the UTKFace dataset from [here](https://susanqq.github.io/UTKFace/). Ensure that the dataset is properly structured with all images centered and resized as required.
 3. The pretrained VGGFace model (ResNet50 architecture) can be downloaded [here](https://drive.google.com/open?id=1oHJxVZCcVwp1dgcwDIZL4h97uInxOGWO).
-4. Install the dependencies listed in requirements.txt and run the notebook.
+4. Upload and run the notebook in Google Colab.
 
 ## Featured Notebooks
 * [VGG_Multiclass_Transfer_Learning.ipynb](https://github.com/vladvintenbakh/MulticlassTransferLearning/blob/main/VGG_Multiclass_Transfer_Learning.ipynb)
